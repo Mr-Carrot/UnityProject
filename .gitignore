@@ -1,0 +1,13 @@
+###### other ########
+# Jetbrain Rider Cache
+.idea
+*.iml
+out
+# MacOS
+.DS_Store
+
+=======
+Library/
+Temp/
+.DS_Store
+
