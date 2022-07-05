@@ -1,0 +1,9 @@
+.idea
+*.iml
+out
+.DS_Store
+TestProject01/
+Library/
+Temp/
+.DS_Store
+Temp/
