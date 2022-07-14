@@ -5,6 +5,7 @@
 out
 # MacOS
 .DS_Store
+*.csproj
 
 =======
 Library/
