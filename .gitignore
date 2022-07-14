@@ -10,4 +10,5 @@ out
 Library/
 Temp/
 .DS_Store
-
+Logs/
+UserSettings/
