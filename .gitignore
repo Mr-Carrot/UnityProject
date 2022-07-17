@@ -5,9 +5,11 @@
 out
 # MacOS
 .DS_Store
+*.csproj
 
 =======
 Library/
 Temp/
 .DS_Store
-
+Logs/
+UserSettings/
